@@ -7,7 +7,7 @@ use yii\web\AssetBundle;
 /**
  * Main backend application asset bundle.
  */
-class AppAsset extends AssetBundle
+class CoreAsset extends AssetBundle
 {
     public $sourcePath = '@vendor/thienhungho/yii2-theme-1002/dist';
 
